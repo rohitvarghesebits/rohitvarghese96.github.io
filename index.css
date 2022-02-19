@@ -80,6 +80,9 @@ body{margin-top:20px;}
   box-shadow: 0 5px 14px 0 rgba(0, 0, 0, 0.06);
   padding: 10px;
   background: #ffffff;
+  height: 420px;
+  width: 420px;
+  border-radius: 50%;
 }
 @media (max-width: 991px) {
   .about-img {
@@ -143,3 +146,17 @@ body{margin-top:20px;}
     color: #fe4f6c;
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid darkgray;
+  text-align: left;
+  padding: 8px;
+}
+
+img {
+  border-radius: 50%;
+}
