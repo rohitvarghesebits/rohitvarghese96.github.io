@@ -1,0 +1,8 @@
+# These owners will be the default owners for everything in
+# the repo.
+* @rohitvarghesebits
+
+# You can also use email addresses if you prefer. They'll be
+# used to look up users just like we do for commit author
+# emails.
+*.go 2020mt93713@wilp.bits-pilani.ac.in
